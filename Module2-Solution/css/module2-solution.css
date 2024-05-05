@@ -1,6 +1,6 @@
 
 
-
+/***Base Styles***/
 *{
 	box-sizing: border-box;
 }
@@ -22,16 +22,8 @@ p {
 	width: 100%;
 }
 
-body {
-	background-color: grey;
-	font-size: 75%;
-}
 
-p {
-	width: 30%;
-	border: 1px solid black;
-	float: left;
-}
+
 
 /*** Large Devices Only ***/
 @media (min-width: 1200px) {
