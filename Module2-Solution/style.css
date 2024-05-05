@@ -24,7 +24,7 @@ section{
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: cosmic san-serif;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	padding: 5px;
@@ -98,7 +98,7 @@ p{
 }
 
 /* Tablet view */
-@media (min-width: 768px) and (max-width: 991px){
+@media (min-width: 769px) and (max-width: 991px){
 	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
   }
