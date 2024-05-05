@@ -6,10 +6,10 @@
 }
 h1 {
 	color: black;
-	text-align: center;
-     margin: 60px;
+	text-align:center;
+    margin: 60px;
     font-size: 40px;
-	font-family: Brushstroke,cursive;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section{
