@@ -4,10 +4,13 @@
 *{
 	box-sizing: border-box;
 }
-h1 {margin-bottom: 15px;
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif
+h1 {
+	color: black;
 	text-align: center;
-	}
+     margin: 60px;
+    font-size: 40px;
+	font-family: Brushstroke,cursive;
+}
 
 section{
 	border: 2px solid black;
